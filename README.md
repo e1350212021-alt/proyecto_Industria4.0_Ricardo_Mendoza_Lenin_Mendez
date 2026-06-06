@@ -50,8 +50,8 @@ cd proyecto_final_industria4.0
 4. Instalar las dependencias
 pip install streamlit pandas numpy scikit-learn joblib
 5. Ejecutar el dashboard
-streamlit run app.py
-6. Abrir la aplicación
+streamlit run app.py  
+
 
 
 - Ejecución del Dashboard
