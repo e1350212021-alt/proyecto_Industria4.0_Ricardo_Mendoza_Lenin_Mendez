@@ -41,7 +41,7 @@ proyecto_final_industria4.0/
 
 - Instrucciones de Despliegue
 1. Clonar el repositorio
-git clone https://github.com/tu-usuario/proyecto_rul_motores.git
+git clone https://github.com/e1350212021-alt/proyecto_Industria4.0_Ricardo_Mendoza_Lenin_Mendez.git
 2. Entrar a la carpeta del proyecto
 cd proyecto_final_industria4.0
 3. Instalar dependencias
