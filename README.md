@@ -40,14 +40,19 @@ proyecto_final_industria4.0/
 └── README.md            # Documentación
 
 - Instrucciones de Despliegue
-1. Clonar el repositorio
+🚀 Instrucciones de Despliegue
+1. Descargar el proyecto
 git clone https://github.com/e1350212021-alt/proyecto_Industria4.0_Ricardo_Mendoza_Lenin_Mendez.git
-2. Entrar a la carpeta del proyecto
+2. Acceder al repositorio
+cd proyecto_Industria4.0_Ricardo_Mendoza_Lenin_Mendez
+3. Acceder a la carpeta del proyecto
 cd proyecto_final_industria4.0
-3. Instalar dependencias
+4. Instalar las dependencias
 pip install streamlit pandas numpy scikit-learn joblib
-4. Ejecutar el dashboard
+5. Ejecutar el dashboard
 streamlit run app.py
+6. Abrir la aplicación
+
 
 - Ejecución del Dashboard
 
