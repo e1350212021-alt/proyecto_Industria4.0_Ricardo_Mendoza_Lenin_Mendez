@@ -54,7 +54,7 @@ streamlit run app.py
 
 
 
-- Ejecución del Dashboard
+--Ejecución del Dashboard
 
 Una vez ejecutado el comando anterior, Streamlit abrirá automáticamente una interfaz web en:
 
